@@ -8,12 +8,14 @@
 - Zabbix Frontend NGINX 6.2
 - Zabbix Agent 6.2
 - Grafana 9.1.4
+- ELK
+- Nginx
 
 ### Easy guide
 
 1) Clone repo:
 ```
-git clone https://github.com/akmalovaa/zabbix-docker.git
+git clone https://github.com/cofecofe3/zabbix-docker.git
 cd zabbix-docker
 ```
 
