@@ -30,6 +30,9 @@ chown -R 472:472 grafana
 docker-compose up -d
 ```
 
+3) Info to use after compose:
+docker ps -a -s
+
 ### Debug
 ```
 docker-compose logs --tail=1 -f
